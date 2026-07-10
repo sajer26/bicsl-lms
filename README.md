@@ -130,3 +130,5 @@ supabase/
 Any static host works since this is a Vite SPA — Vercel or Netlify free tier is recommended
 (matches the "100% free, no paid dependencies" requirement). Set the same two environment
 variables in the host's dashboard.
+
+
