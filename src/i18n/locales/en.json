@@ -1,0 +1,49 @@
+{
+  "app": {
+    "name": "BICSL",
+    "fullName": "Basic Infection Control Skills License"
+  },
+  "landing": {
+    "welcome": "Welcome to the BICSL Learning Platform",
+    "tagline": "Standardized infection prevention and control training for healthcare professionals.",
+    "registerStaff": "Register New Staff",
+    "signIn": "Sign In",
+    "superAdminLogin": "Super Admin Login",
+    "free": "100% Free",
+    "certificateValidity": "Certificate Valid for Two Years",
+    "sevenComponents": "Seven BICSL Components",
+    "bilingual": "Arabic & English Support",
+    "compatible": "Mobile & Web Compatible"
+  },
+  "auth": {
+    "fullName": "Full Name",
+    "nationalId": "National ID / Employee ID",
+    "dateOfBirth": "Date of Birth",
+    "email": "Email Address",
+    "password": "Password",
+    "hospital": "Hospital",
+    "register": "Register",
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "haveAccount": "Already have an account?",
+    "noAccount": "Don't have an account?"
+  },
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "modules": "Modules",
+    "progress": "Progress",
+    "certificate": "Certificate",
+    "profile": "Profile"
+  },
+  "common": {
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "continue": "Continue",
+    "retry": "Retry"
+  }
+}
